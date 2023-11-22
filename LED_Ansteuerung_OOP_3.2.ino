@@ -15,7 +15,7 @@ void zaehle(){
   Serial.println(x);
 }
 
-Led ledBlau(2, 1000,1000);  // ein `Led` Objekt mit dem Namen `ledGreen` mit Pin 4
+Led ledBlau(2, 100,100);  // ein `Led` Objekt mit dem Namen `ledGreen` mit Pin 4
 
 
 void setup() {
